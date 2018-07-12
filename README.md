@@ -34,3 +34,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 # Angular6-Firebase-LiveChat
+
+![alt text](https://user-images.githubusercontent.com/40801686/42611696-b47632dc-8597-11e8-98ee-3f51fb3fed22.png)
