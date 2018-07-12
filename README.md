@@ -6,6 +6,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+# Angular y Firebase Chat en tiempo real
+
+
+![alt text](https://user-images.githubusercontent.com/40801686/42611697-b51def0e-8597-11e8-80f3-40f0e8a7e76f.png)
+
+Proyecto Angular 6 y Firebase para la creacion de un chat en tiempo real, gracias a la base de datos firebase.
+
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
