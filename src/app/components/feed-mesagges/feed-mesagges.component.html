@@ -1,0 +1,7 @@
+<div class="messages">
+
+  <!-- bucle por el array de mensajes, con subscripcion al observable mediante el pipe async -->
+  <div *ngFor="let mensaje of mensajes | async" class="message">
+    <app-message [chatMessage]="mensaje"></app-message>
+  </div> 
+</div>
