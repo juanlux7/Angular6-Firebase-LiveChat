@@ -5,10 +5,10 @@
 export const environment = {
   production: false,
    firebase : {
-    apiKey: "AIzaSyAcSylTtx1j0Def94c_YCdHQQgWjwMDDeE",
+    apiKey: "yourAPIKEY",
     authDomain: "angularchat-3b9d8.firebaseapp.com",
     databaseURL: "https://angularchat-3b9d8.firebaseio.com",
-    projectId: "angularchat-3b9d8",
+    projectId: "yourPROJECTID",
     storageBucket: "",
     messagingSenderId: "771575154036"
   }
